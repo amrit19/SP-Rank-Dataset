@@ -9,7 +9,7 @@ To run this codebase, ensure the following:
 - Python 3.7.12
 - `pystan` installed per the instructions at: https://pystan.readthedocs.io/en/latest/
 
-After setting up the environment, unzip the `SP_Rank_Code` folder and execute the files in the order described below.
+Execute the files in the order described below.
 
 ---
 
