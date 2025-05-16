@@ -2,7 +2,7 @@
 
 This repository contains the code accompanying the paper *SP-Rank: A Dataset for Ranked Preferences with Secondary Information*, designed to evaluate rank aggregation methods that combine first-order signals (votes) and second-order signals (meta-predictions of others’ votes).
 
-## 🛠 Development Environment Setup
+## Development Environment Setup
 
 To run this codebase, ensure the following:
 
